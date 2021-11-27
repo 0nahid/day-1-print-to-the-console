@@ -3,3 +3,4 @@
 - Print the string `Hello, World!` to the console.
 - Print Input Function to the console.
 - Print string concatenation to the console.
+- added brand name generator
